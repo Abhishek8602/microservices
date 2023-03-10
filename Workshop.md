@@ -1,6 +1,6 @@
 ---
 marp: true
-footer: '![width:200px](./header_logo.png)'
+# footer: '![width:200px](./header_logo.png)'
 
 ---
 # $~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ Spring
